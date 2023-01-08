@@ -1,1 +1,2 @@
 # Modular-autonomy-using-consumer-technology
+A system was developed that used the sensors on an iPhone, specifically the LiDAR, camera, and IMU data streams, to perform simultaneous localization and mapping (SLAM) using LiDAR, visual SLAM, RTAB-Map, and dead reckoning. The data from the sensors was analyzed using MATLAB. The system demonstrated the potential for using consumer technology to achieve SLAM.

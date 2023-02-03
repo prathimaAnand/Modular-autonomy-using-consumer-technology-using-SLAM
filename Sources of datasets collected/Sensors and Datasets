@@ -1,0 +1,12 @@
+We have collected three datasets using an iPhone following the same trajectory and analyzed the data through
+different algorithms to obtain a mapping of the area in various forms.
+Firstly, we have installed an application called ”Record3D” on the iPhone that scans the area and gives LiDAR
+data. This application can stream live data in two ways: via USB and over Wi-Fi. RTAB-Map is also installed as an
+application on the Windows laptop that performs the mapping. The iPhone’s camera is calibrated manually and the
+camera intrinsics are obtained. The LiDAR data obtained is saved as a sequence of images which is then processed
+by the RTAB-Map algorithm via USB live streaming.
+Secondly, using an iPhone camera an RGB video is recorded and processed by the PySLAM 2 algorithm that
+detects visual landmarks to obtain the 2D and 3D trajectory.
+Thirdly, utilizing the MATLAB application on iPhone consisting of motion sensors - Gyroscope, Magnetometer
+and Accelerometer, we performed dead-reckoning. The sensors on the iPhone are already calibrated off the shelf.
+1

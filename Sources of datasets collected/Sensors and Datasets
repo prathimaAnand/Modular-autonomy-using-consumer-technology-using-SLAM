@@ -9,4 +9,3 @@ Secondly, using an iPhone camera an RGB video is recorded and processed by the P
 detects visual landmarks to obtain the 2D and 3D trajectory.
 Thirdly, utilizing the MATLAB application on iPhone consisting of motion sensors - Gyroscope, Magnetometer
 and Accelerometer, we performed dead-reckoning. The sensors on the iPhone are already calibrated off the shelf.
-1

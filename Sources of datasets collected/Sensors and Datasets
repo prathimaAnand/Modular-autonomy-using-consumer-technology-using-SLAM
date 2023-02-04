@@ -1,5 +1,3 @@
-https://github.com/prathimaAnand/Modular-autonomy-using-consumer-technology/blob/6beba9ec56b40521cf3b466a844ef76b15bd3c46/Sources%20of%20datasets%20collected/datasets.png
-
 Collected three datasets using an iPhone following the same trajectory and analyzed the data through
 different algorithms to obtain a mapping of the area in various forms.
 Firstly, we have installed an application called ”Record3D” on the iPhone that scans the area and gives LiDAR
